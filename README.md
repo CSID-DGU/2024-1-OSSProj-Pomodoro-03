@@ -1,4 +1,4 @@
-Class : OSSProj
+Class : OSSProj  
 Name : Nayoung Park
 
 # 2024-1-OSSProj-Pomodoro-03
