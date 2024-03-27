@@ -1,8 +1,8 @@
 # 2024-1-OSSProj-Pomodoro-03
 2024-1 오픈소스 SW프로젝트 &lt;뽀모도로>
-Class [OSSProj]
-Name : Kim jiwoo
-Date : 2024.03.27
+Class [OSSProj]  
+Name : Kim jiwoo  
+Date : 2024.03.27  
 
 # Teams
 - 김지우 통계학과
