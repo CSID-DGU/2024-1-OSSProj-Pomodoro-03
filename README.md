@@ -4,6 +4,7 @@ Class [OSSProj]
 Name : Kim jiwoo  
 Date : 2024.03.27  
 Subject : Git and GitHub
+Practice : Github pull request
 
 # Teams
 - 김지우 통계학과
