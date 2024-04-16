@@ -47,7 +47,8 @@
  <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98%EC%9D%B4%EC%9B%832.png" align="center" width="40%"> 
  </figcaption></p>
  <br><br><br><br>      
- <br><br> 
+ <br>  
+ 
 * 각 동네 별 중고거래 및 < 동네생활정보 / 맛집,카페 / 일상 / 건강,운동 등>의 이웃소식 카테고리 정보를 리스트 형태로 제공
 * 이웃 커뮤니티 관련 선행사례 비교 표
   
