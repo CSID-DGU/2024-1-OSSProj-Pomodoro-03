@@ -1,4 +1,5 @@
 ### 2024-1-OSSPrac-Pomodoro-03 팀의 리파지토리입니다.  
+> 2024년 1학기 오픈소스소프트웨어프로젝트, 3조 뽀모도로  
   
 ## 팀 구성  
 
@@ -7,6 +8,13 @@
 팀장 | 김지우 | 2020110269 | 통계학과 | 융합SW연계전공 | kjw01024@naver.com         
 팀원 | 박나영 | 2018111743 | 의생명공학과 | 융합SW연계전공 | skdud025@naver.com        
 팀원 | 김지송 | 2021112431 | 산업시스템공학과 | 융합SW연계전공 | jisong1222@naver.com    
+
+##   
+### 프로젝트 주제  
+위치기반 자취 커뮤니티 리본 (LIVE:ON)  
+
+### 프로젝트 내용  
+(수정 예정) 
   
 ## 프로젝트 관련 문서  
 1. [OSSProj 회의록](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/1_4_OSSProj_03_%EB%BD%80%EB%AA%A8%EB%8F%84%EB%A1%9C_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
