@@ -18,7 +18,7 @@
 
 ##
 ### 프로젝트 관련 문서  
-1. [OSSProj 회의록]Doc/2_4_OSSProj_03_Pomodoro_회의록.pdf
+1. [OSSProj 회의록](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/2_4_OSSProj_03_Pomodoro_%ED%9A%8C%EC%9D%98%EB%A1%9D.pdf)
 2. [OSSProj 범위/일정/이슈관리](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/1_5_OSSProj_03_Pomodoro_%EB%B2%94%EC%9C%84_%EC%9D%BC%EC%A0%95_%EC%9D%B4%EC%8A%88%EA%B4%80%EB%A6%AC.md)  
 3. [OSSP 제품 구성/배포/운영자료] (링크 추가 예정)  
   
