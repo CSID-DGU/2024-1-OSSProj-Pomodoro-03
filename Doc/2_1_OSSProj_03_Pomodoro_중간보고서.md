@@ -28,6 +28,9 @@
 1인 가구 비중이 점점 늘어나는 오늘날의 사회 속에서 자취하는 사람들을 위한 커뮤니티의 필요성도 점점 커지고 있지만, 아직 자취 전용 커뮤니티의 상용화는 이뤄지지 않았다. 본조는 자취생들의 정보공유를  중시하면서도 커뮤니티의 활성화를 위해 위치 기반의 쉐어 서비스를 포함하여 모든 자취정보를 한눈에 아울러 볼 수 있는 자취생만의 위치 기반 커뮤니티를 만들고자 한다.
 * 사전 조사  
 주변 지인들을 통해 자취커뮤니티 관련 설문조사를 진행하였다. 약 92%가 자취 커뮤니티가 있다면 사용할 의사가 있음을 밝혔고, 그중 자취 커뮤니티의 부재로 인한 문제점으로는 배달이나 공동구매인원을 찾기가 어렵다는 부분이 가장 많았으며 그 다음으로는 자취 생활 정보의 부족이 차지하였다. 또한 커뮤니티 내에서 쉐어기능을 활용할 의사도 높음으로 나타났다.
+ <img width="500" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%84%A4%EB%AC%B8_%EB%AC%B8%EC%A0%9C%EC%A0%90.png">
+ <img width="500" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%84%A4%EB%AC%B8_%EC%82%AC%EC%9A%A9%EC%9D%98%ED%96%A5.png">
+
 
 #### (2) 선행기술 및 사례 분석  
 #### (2)-1 기존 유사 시스템
@@ -43,7 +46,7 @@
 * 하지만 서로 아는 사이 라는 전제하에 사용할 수 있는 기능으로, 함께주문할 사람을 구하는 커뮤니티가 따로 존재하지 않음.
 
 ##### * 선행기술 사례 비교표
- <img width="550" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%84%A0%ED%96%89%EC%82%AC%EB%A1%80%EB%B9%84%EA%B5%90%ED%91%9C2.png">
+ <img width="450" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%84%A0%ED%96%89%EC%82%AC%EB%A1%80%20%EB%B9%84%EA%B5%90%EB%B6%84%EC%84%9D.png">
 
 #### (2)-2 이번 프로젝트는 기존 시스템과 어떤 차이점을 가질 수 있는가? 
 ##### a. 기존시스템
@@ -98,10 +101,22 @@
 
 #### (2)-2 최종 설계 결과물의 예상 모습
 * 로그인 및 회원가입 화면
+<p align="left">  
+ <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%B0%BD.png" align="left" width="35%">  
+ <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%B0%BD.png" align="center" width="35%"> 
+ </figcaption></p>
+
 * 지도형태 시각화 화면
     * (현재) 카테고리 및 지도 화면까지 구현
     * (최종 예상 모습) 지도 위 리본모양의 쉐어글 핀 표시
+<img width="350" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%ED%99%88%ED%99%94%EB%A9%B4.png">
+
 * 쉐어글 목록 형태 시각화 화면 및 검색 화면 (예상 모습)
+<p align="left">  
+ <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%89%90%EC%96%B4%EA%B8%80_%EB%A6%AC%EC%8A%A4%ED%8A%B8%ED%98%95.png" align="left" width="35%">  
+ <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EA%B2%80%EC%83%89%EA%B2%B0%EA%B3%BC.png" align="center" width="35%"> 
+ </figcaption></p>  <br><br>
+
 
 #### (2)-3 최종 설계 결과물의 시스템 구성
 #### <핵심 기능>
@@ -127,11 +142,18 @@
 #### <백엔드>
 파이어베이스 프로젝트 생성 후, 사용자 인증과 실시간 데이터베이스 구현
 * 회원가입 시 이메일과 패스워드로 사용자 인증 기능 제공. 자동 UID 생성
+ <img width="380" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/firebase%20%EC%9D%B8%EC%A6%9D.png">  
 * 회원가입 폼에 입력한 내용을 실시간 데이터베이스에 저장하여 회원정보 관리
+ <img width="380" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/firebase%20DB.png">  
 
 #### <시스템 구성 다이어그램>
+ <img width="450" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EB%B8%94%EB%A1%9D%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.jpg">  
+ 
 #### <사용자 / 관리자 유스케이스 다이어그램>
+ <img width="420" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%9C%A0%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.jpg">  
+ 
 #### <시퀀스 다이어그램>
+ <img width="420" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png">  
 
 #### (2)-4 최종 설계 결과물의 시스템 구성
 #### 기본 기능 시나리오
@@ -206,6 +228,7 @@
 #### (5) 개발 환경  
 
 * 최종 설계 결과물의 구현 수단
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.png">  
 
 ### 2.4  기대효과  
 
@@ -215,7 +238,7 @@
 ### 2.5  추진일정  
 
 * 세부 작업에 대한 간트챠트  
-
+ <img width="550" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EA%B0%84%ED%8A%B8%EC%B0%A8%ED%8A%B8%20%EC%B5%9C%EC%A2%85.png">  
 
 ### 2.6 팀원 역할  
 
