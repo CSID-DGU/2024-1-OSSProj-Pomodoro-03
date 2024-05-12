@@ -11,4 +11,4 @@
 
 ![image](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144122630/3fea3500-299b-411f-945f-d827d2415c66)  
 [리본(LIVE:ON)커뮤니티 이슈관리]([URL](https://naaxo.notion.site/5bc50505676c423a813ab952abbfa1d3?v=2e4b77b6faf84c869db681f6aec640b9&pvs=4
-))  
+)  
