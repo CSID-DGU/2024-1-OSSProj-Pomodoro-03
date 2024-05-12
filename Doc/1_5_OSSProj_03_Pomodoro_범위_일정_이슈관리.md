@@ -8,6 +8,6 @@
 ## 이슈 관리  
 - *프로젝트 개발하면서 발생하는 이슈 추가 예정*
 - *프로젝트 이슈를 지속적으로 관리*
-- [리본(LIVE:ON)커뮤니티 이슈관리](https://naaxo.notion.site/5bc50505676c423a813ab952abbfa1d3?v=2e4b77b6faf84c869db681f6aec640b9&pvs=4)  
+- [리본(LIVE:ON)프로젝트 이슈관리](https://naaxo.notion.site/5bc50505676c423a813ab952abbfa1d3?v=2e4b77b6faf84c869db681f6aec640b9&pvs=4)  
 
 ![image](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144122630/3fea3500-299b-411f-945f-d827d2415c66)  
