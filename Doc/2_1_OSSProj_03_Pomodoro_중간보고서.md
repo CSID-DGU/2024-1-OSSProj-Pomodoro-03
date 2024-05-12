@@ -155,9 +155,12 @@
 #### <시퀀스 다이어그램>
  <img width="420" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png">  
 
+#### <플로우 차트>
+ <img width="580" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%B0%A8%ED%8A%B8.png">  
+
 #### (2)-4 최종 설계 결과물의 시스템 구성
 #### 기본 기능 시나리오
-1. 사용자가 웹사이트 (자취 커뮤니티, 리본)에 접속한다.  
+1. 사용자가 웹사이트 (자취 커뮤니티, 리본)에 접속한다.   
 1-1. 아이디, 비밀번호를 입력하여 로그인한다.  
 1-2. 첫 가입시 신뢰성 확보를 위해, 사용자의 위치정보를 통해 동네 인증을 진행하고, 지역태그를 부여받는다.
 #### 쉐어 기능 시나리오
@@ -228,17 +231,26 @@
 #### (5) 개발 환경  
 
 * 최종 설계 결과물의 구현 수단
- <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.png">  
+ <img width="350" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.png">  
 
 ### 2.4  기대효과  
 
-* 이 시스템이 개발되면 누구에게 어떤 도움을 줄 수 있는가?  
-* 경제적인 측면, 사회적인 측면 등을 다양하게 고려한다.  
+* 게시판을 통한 자취생들 간 소통 강화
+    * 정보게시판에서 자신만의 자취 꿀팁 공유
+    * 자유게시판에서 다양한 컨텐츠 공유
+    * 익명게시판에서 보다 안전하고 자유로운 소통
+* 쉐어기능을 통한 경제적 이점 부여
+    * 배달 쉐어를 통한 배달비, 식비 절약
+    * 공동구매를 통해 저렴한 가격에 생필품 구
+* 직관적이며 쉽고 빠른 사용
+    * 쉐어하는 인원 간 실시간 채팅을 통해 쉬운 사용
+    * 좋아요, 북마크 등으로 유용한 컨텐츠에 쉽게 접근
+
 
 ### 2.5  추진일정  
 
 * 세부 작업에 대한 간트챠트  
- <img width="550" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EA%B0%84%ED%8A%B8%EC%B0%A8%ED%8A%B8%20%EC%B5%9C%EC%A2%85.png">  
+ <img width="570" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EA%B0%84%ED%8A%B8%EC%B0%A8%ED%8A%B8%20%EC%B5%9C%EC%A2%85.png">  
 
 ### 2.6 팀원 역할  
 
