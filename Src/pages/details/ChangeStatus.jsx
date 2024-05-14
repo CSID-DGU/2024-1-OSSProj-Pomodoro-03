@@ -80,11 +80,11 @@ function ChangeStatus() {
           <meta property="og:url" content="https://LIVEON.vercel.app/profile" />
           <meta
             property="og:description"
-            content="공동구매 상품의 진행 상태를 변경할 수 있는 페이지입니다. 생성자가 진행 상태에 따라 모집중, 쉐어중, 쉐어완료로 변경할 수 있습니다."
+            content="쉐어 상품의 진행 상태를 변경할 수 있는 페이지입니다. 생성자가 진행 상태에 따라 모집중, 쉐어중, 쉐어완료로 변경할 수 있습니다."
           />
           <meta
             name="description"
-            content="공동구매 상품의 진행 상태를 변경할 수 있는 페이지입니다. 생성자가 진행 상태에 따라 직접 모집중, 쉐어중, 쉐어완료로 변경할 수 있습니다."
+            content="쉐어 상품의 진행 상태를 변경할 수 있는 페이지입니다. 생성자가 진행 상태에 따라 직접 모집중, 쉐어중, 쉐어완료로 변경할 수 있습니다."
           ></meta>
           <meta property="og:image" content="favicon.png" />
           <meta property="og:article:author" content="Ready! Act" />
