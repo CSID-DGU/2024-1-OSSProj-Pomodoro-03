@@ -48,7 +48,7 @@ function Profile() {
     return (
       <>
         <Helmet>
-          <title>R09M - 프로필</title>
+          <title>LIVE:ON - 프로필</title>
           <meta charset="UTF-8" />
           <meta
             name="viewport"
