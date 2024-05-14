@@ -86,7 +86,7 @@ function SignUp() {
   return (
     <>
       <Helmet>
-        <title>R09M - 회원가입</title>
+        <title>LIVE:ON - 회원가입</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
@@ -105,12 +105,12 @@ function SignUp() {
         />
         <meta
           name="description"
-          content="R09M 회원가입 페이지입니다. 인증된 사용자만 공동구매에 참여할 수 있습니다."
+          content="LIVE:ON 회원가입 페이지입니다. 인증된 사용자만 공동구매에 참여할 수 있습니다."
         ></meta>
         <meta property="og:image" content="favicon.ico" />
         <meta property="og:article:author" content="Ready! Act" />
       </Helmet>
-      <h1 className="sr-only">R09M</h1>
+      <h1 className="sr-only">LIVE:ON</h1>
 
       <div className="px-4 py-2">
         <Header />

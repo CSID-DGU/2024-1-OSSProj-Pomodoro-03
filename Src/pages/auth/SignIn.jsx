@@ -56,7 +56,7 @@ function SignIn() {
   return (
     <>
       <Helmet>
-        <title>R09M - 로그인</title>
+        <title>LIVE:ON - 로그인</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
@@ -68,7 +68,7 @@ function SignIn() {
           content="자취인 전용 위치기반 커뮤니티 리본(LIVE: ON) 로그인 페이지"
         />
         <meta property="og:type" content="web application" />
-        <meta property="og:url" content="https://r09m.vercel.app/signin" />
+        <meta property="og:url" content="https://LIVEON.vercel.app/signin" />
         <meta
           property="og:description"
           content="LIVE:ON 로그인 페이지입니다. 인증된 사용자만 공동구매에 참여할 수 있습니다."
