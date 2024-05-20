@@ -15,7 +15,7 @@
 
 ### 프로젝트 내용  
 <p align="left">  
- <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EA%B2%80%EC%83%89%EA%B2%B0%EA%B3%BC.png" align="left" width="35%">  
+ <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%ED%99%88%ED%99%94%EB%A9%B4.png" align="left" width="35%">  
  <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%89%90%EC%96%B4%EA%B8%80_%EB%A6%AC%EC%8A%A4%ED%8A%B8%ED%98%95.png" align="center" width="35%">  
  </figcaption></p>  <br><br> 
 
