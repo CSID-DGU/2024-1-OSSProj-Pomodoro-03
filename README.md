@@ -14,10 +14,20 @@
 위치기반 자취 커뮤니티 리본 (LIVE:ON)  
 
 ### 프로젝트 내용  
+[ 프로젝트 개요 ]
+- 배경 : 자취생들이 생활정보 및 배달/공동구매 쉐어를 진행할 수 있는 커뮤니티의 필요성
+- 목적 : 혼자살때 불편했던 여러 부분을 커뮤니티에서 해결할 수 있도록 하고, 공동구매와 배달쉐어를 통한 생활비 절약을 돕는다.
+  
+[ 최종 설계 결과물 ]
 <p align="left">  
  <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%ED%99%88%ED%99%94%EB%A9%B4.png" align="left" width="35%">  
  <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%89%90%EC%96%B4%EA%B8%80_%EB%A6%AC%EC%8A%A4%ED%8A%B8%ED%98%95.png" align="center" width="35%">  
  </figcaption></p>  <br><br> 
+
+[ 기대효과 ]
+- 게시판을 통한 자취생들 간 소통 강화
+- 쉐어기능을 통한 경제적 이점 부여
+- 직관적이며 쉽고 빠른 사용
 
 ##
 ### 프로젝트 관련 문서  
