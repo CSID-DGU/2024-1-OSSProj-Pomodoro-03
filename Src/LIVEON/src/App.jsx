@@ -1,11 +1,12 @@
-import { createContext, useState, Suspense } from 'react';
-import { HelmetProvider, Helmet } from 'react-helmet-async';
+import { createContext, useState } from 'react';
+import { HelmetProvider } from 'react-helmet-async';
 import { Toaster } from 'react-hot-toast';
 import { RouterProvider } from 'react-router-dom';
+import router from './routes';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools';
 import Spinner from './components/Spinner';
-import router from './routes';
+import { Suspense } from 'react';
 import './firebase';
 
 export const AppContext = createContext();
@@ -24,8 +25,8 @@ function App() {
     category: '',
     title: '',
     content: '',
-    price: 0,
-    pickup: null,
+    //price: 0,
+    //pickup: null,
     payment: '',
     participateCounter: 0,
     meetingPoint: '',
@@ -40,10 +41,13 @@ function App() {
     createRoomForm,
     updateCreateRoomForm: (key, value) => {
       setCreateRoomForm((state) => {
-        return {
-          ...state,
-          [key]: value,
-        };
+        if (state[key] !== value) {
+          return {
+            ...state,
+            [key]: value,
+          };
+        }
+        return state;
       });
     },
   };
@@ -51,9 +55,6 @@ function App() {
   return (
     <>
       <HelmetProvider>
-        <Helmet>
-          <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-        </Helmet>
         <QueryClientProvider client={queryClient}>
           <AppContext.Provider value={appState}>
             <div className="max-w-xl mx-auto font-pretendard">
@@ -65,7 +66,6 @@ function App() {
           <ReactQueryDevtools />
         </QueryClientProvider>
       </HelmetProvider>
-
       <Toaster />
     </>
   );
