@@ -82,7 +82,7 @@ function Food() {
           content="LIVE:ON 배달쉐어 상품 페이지"
         />
         <meta property="og:type" content="web application" />
-        <meta property="og:url" content="https://r09m.vercel.app/food" />
+        <meta property="og:url" content="https://liveon.vercel.app/food" />
         <meta
           property="og:description"
           content="배달쉐어 상품을 확인할 수 있는 페이지입니다. 카테고리, 상품명, 상세내용, 진행상태, 참여자 현황을 확인할 수 있습니다."
