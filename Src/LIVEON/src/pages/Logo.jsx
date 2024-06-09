@@ -31,24 +31,24 @@ function Logo() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           property="og:title"
-          content="자취인 전용 위치기반 커뮤니티 리본(LIVE: ON)"
+          content="자취생을 위한 위치기반 커뮤니티 LIVE:ON"
         />
         <meta
           property="twitter:title"
-          content="자취인 전용 위치기반 커뮤니티 리본(LIVE: ON)"
+          content="자취생을 위한 위치기반 커뮤니티 LIVE:ON"
         />
         <meta property="og:type" content="web application" />
-        <meta property="og:url" content="https://LIVEON.vercel.app" />
+        <meta property="og:url" content="https://r09m.vercel.app" />
         <meta
           property="og:description"
-          content="1인가구를 위한 공동구매, 배달음식 등을 쉐어할 수 있는 기능과 생활정보팁을 공유할 수 있는 서비스 입니다"
+          content="자취생을 위한 위치기반 커뮤니티 LIVE:ON"
         />
         <meta
           name="description"
-          content="1인가구를 위한 공동구매, 배달음식 등을 쉐어할 수 있는 기능과 생활정보팁을 공유할 수 있는 서비스, LIVE:ON의 로고 페이지입니다."
+          content="자취생을 위한 위치기반 커뮤니티, LIVE:ON 로고 페이지입니다."
         ></meta>
-        <meta property="og:image" content="favicon.png" />
-        <meta property="og:article:author" content="Ready! Act" />
+        <meta property="og:image" content="ribbon.png" />
+        <meta property="og:article:author" content="LIVE:ON" />
       </Helmet>
       <div className="bg-primary-600 w-full h-[90vh] text-center flex justify-center items-center relative">
         <h1 className="sr-only">LIVE:ON</h1>
