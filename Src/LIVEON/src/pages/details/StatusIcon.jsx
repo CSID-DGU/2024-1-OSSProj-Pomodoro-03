@@ -40,4 +40,4 @@ StatusIcon.propTypes = {
   textY: string,
 };
 
-export default StatusIco
+export default StatusIcon
