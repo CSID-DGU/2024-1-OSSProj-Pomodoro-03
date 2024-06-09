@@ -13,7 +13,7 @@
 | 4    | 프로밀 화면 | users       | [/Src/LIVEON/src/pages/users](/Src/LIVEON/src/pages/users)                          | 80%    |
 | 5    | 쉐어글 작성 | CreateRoom.jsx 및 create       | [/Src/LIVEON/src/parts/create](/Src/LIVEON/src/pages/create)                          | 100%    |
 | 6    | 검색 | Search       | [/Src/LIVEON/src/pages/](/Src/LIVEON/src/pages/Search.jsx)                          | 95%    |
-| 7    | 지도 관련 | map       | [/Src/LIVEON/src/parts/map](/Src/LIVEON/src/pages/map)                          | 100%    |
+| 7    | 지도 관련 | map       | [/Src/LIVEON/src/parts/map](/Src/LIVEON/src/parts/map)                          | 100%    |
 | 8    | 채팅 | chat       | [/Src/LIVEON/src/pages/chat](/Src/LIVEON/src/pages/chat)                          | 100%    |
 | 9    | 자유게시판 & 익명게시판 | posts       | [/Src/LIVEON/src/pages/posts](/Src/LIVEON/src/pages/posts)                          | 80%    |
 
