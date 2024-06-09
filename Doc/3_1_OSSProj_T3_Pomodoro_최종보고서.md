@@ -84,10 +84,6 @@ firebase를 활용하여 사용자 인증과 회원정보 저장 및 관리
 
 익명으로 글 작성. 작성자의 지역, 닉네임 등 모두 비공개 
 
- <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%9D%B5%EB%AA%85%EA%B2%8C%EC%8B%9C%ED%8C%90.png">
-
-댓글 작성 가능. 댓글 작성자의 정보도 모두 비공개 
-  
 
 ### 3. 프로젝트 추진 내용    
 
