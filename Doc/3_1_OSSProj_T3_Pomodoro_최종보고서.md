@@ -99,7 +99,21 @@ firebase를 활용하여 사용자 인증과 회원정보 저장 및 관리
 
 * 해당항목은 분석, 개념설계 및 상세설계 단계의 주요 산출물을 상세하고 쉽게 작성한다.    
 * 예) 유스케이스, 시스템 블록, 시퀀스 다이어그램과 설명, 그외 설계 산출물 등
-* ![Use case diagram-2 (1)](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144210233/68f2cd4e-e18f-4ea8-8313-715d18efe822)
+
+  - API 명세서
+    ![image](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144210233/4378a84f-d42c-4af4-b900-dbcd35de6b60)
+
+  - 유스케이스 다이어그램
+    ![Use case diagram-2 (1)](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144210233/68f2cd4e-e18f-4ea8-8313-715d18efe822)
+  
+  - 시스템 구조도
+    ![image](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144210233/ea62cc49-4350-47a6-9856-7759d4c100f1)
+
+  - 시퀀스 다이어그램
+    ![image](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144210233/fa5ebed9-4820-47af-aac7-108c4ed74c44)
+
+  
+
  
 
 #### 3.2 프로젝트 구현과정    
