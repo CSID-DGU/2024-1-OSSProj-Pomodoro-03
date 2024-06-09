@@ -3,6 +3,7 @@
 ## 1. 프로젝트 제품 구성
 - *프로젝트 제품의 구성과 배치 내역을 그림과 글로 설명*
 
+## 소스코드 연계 내용
 
 | 번호 | 내용 | 패키지명 | 소스코드 링크 | 구현 정도 | |
 | :---: | :-----: | :---: | :---: | :---: | :---: |
@@ -16,8 +17,7 @@
 | 8    | 채팅 | chat       | [/Src/LIVEON/src/pages/chat](/Src/LIVEON/src/pages/chat)                          | 100%    |
 | 9    | 자유게시판 & 익명게시판 | posts       | [/Src/LIVEON/src/pages/posts](/Src/LIVEON/src/pages/posts)                          | 80%    |
 
-  
-- 프로젝트 구현 범위
+ ## 프로젝트 구현 범위 
   ![image](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144122630/0c4df1ed-d5cf-4bea-b16f-133d47f30a6e)
 
   
