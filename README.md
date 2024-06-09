@@ -36,7 +36,7 @@
 4. [OSSP 제품 구성/배포/운영자료] (링크 추가 예정)  
 
 ### 프로젝트 시연 영상  
-[![LIVE:ON](http://img.youtube.com/vi/LVFyc-urblA/0.jpg)]([https://youtu.be/LVFyc-urblA])  
+[![LIVE:ON](http://img.youtube.com/vi/LVFyc-urblA/0.jpg)]([https://youtube/LVFyc-urblA])  
   
   
 ### 프로젝트 자료  
