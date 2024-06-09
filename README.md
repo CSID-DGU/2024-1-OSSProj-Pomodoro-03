@@ -35,9 +35,12 @@
 2. [OSSProj 범위/일정/이슈관리](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/4_5_OSSProj_03_Pomodoro_%EB%B2%94%EC%9C%84_%EC%9D%BC%EC%A0%95_%EC%9D%B4%EC%8A%88%EA%B4%80%EB%A6%AC.md)
 4. [OSSP 제품 구성/배포/운영자료] (링크 추가 예정)  
 
-### 프로젝트 시연 영상  
-[![LIVE:ON](http://img.youtube.com/vi/LVFyc-urblA/0.jpg)]([https://youtube/LVFyc-urblA])  
-  
+### 프로젝트 배포 링크
+[LIVE:ON](https://ossproj-liveon.web.app/)  
+
+### 프로젝트 시연 영상 
+[![LIVE:ON](http://img.youtube.com/vi/LVFyc-urblA/0.jpg)](https://youtu.be/LVFyc-urblA)  
+
   
 ### 프로젝트 자료  
 1. [OSSProj 수행계획서](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/1_1_OSSProj_03_Pomodoro_%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D%EC%84%9C.md)  
