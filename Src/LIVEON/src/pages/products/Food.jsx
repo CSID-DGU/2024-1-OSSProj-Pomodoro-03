@@ -109,7 +109,7 @@ function Food() {
               category,
               content,
               status,
-              currentNumber,
+              participate,
               participateNumber,
               title,
               user_id,
@@ -142,7 +142,7 @@ function Food() {
                   </span>
                 </div>
                 <span className="text-greenishgray-600">
-                  참여 인원 : {currentNumber} / {participateNumber}
+                  참여 인원 : {participate.length} / {participateNumber}
                 </span>
               </div>
 
