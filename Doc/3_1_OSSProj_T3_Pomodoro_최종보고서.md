@@ -44,38 +44,63 @@
 
 * 최종결과물의 주요 목록을 소개하고, 주요 항목별 관련 사진 또는 그림을 필히 제시하고 설명한다.
   #### LIVE: ON의 주요 기능 소개
-  - 회원가입 및 로그인
-<회원가입, 로그인 사진> 
+- 회원가입 및 로그인
+<p align="left">  
+ <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%B0%BD.png" align="left" width="35%">  
+ <img src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EC%B0%BD.png" align="center" width="35%"> 
+ </figcaption></p>
+
+ 
 firebase를 활용하여 사용자 인증과 회원정보 저장 및 관리
-- 프로필
-<프로필 화면>
+ - 프로필
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%ED%94%84%EB%A1%9C%ED%95%84.png">
 프로필 화면에서 내 정보와 내가 쓴 쉐어글 확인 가능
+
 - 지도 위 게시글 시각화
-<지도 위 게시글 띄운 화면>
-사용자들이 직관적으로 자신의 주변 쉐어글을 확인할 수 있도록 지도 위에 시각화, 쉐어 페이지로 바로 접근 가능
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%A7%80%EB%8F%84%20%EC%8B%9C%EA%B0%81%ED%99%94.png">
+
+사용자들이 직관적으로 자신의 주변 쉐어글을 확인할 수 있도록 지도 위에 시각화, 쉐어 페이지로 바로 접근 가능 
 - 카테고리 별 쉐어 글 작성 및 참여
-<배달쉐어 food 페이지 캡쳐>
-카테고리 별 게시글 목록 표시
-<디테일 페이지 캡쳐>
-게시글 세부 내용 표시
-<채팅방 페이지 캡쳐>
-참여 인원 간 채팅 기능을 통해 세부사항 조율
-- 일반 게시판 (자유 및 익명)
-<자유 게시판>
-자유롭게 글 작성. 작성자의 지역구+닉네임이 표시됨
-<자유 게시판 detail>
-댓글 작성 가능. 댓글 작성자의 지역구+닉네임이 표시됨
-<익명 게시판>
-익명으로 글 작성. 작성자의 지역, 닉네임 등 모두 비공개
-<익명 게시판 detail>
-댓글 작성 가능. 댓글 작성자의 정보도 모두 비공개
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EB%B0%B0%EB%8B%AC%EC%89%90%EC%96%B4.png">
+
+카테고리 별 게시글 목록 표시 
+
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%89%90%EC%96%B4%EB%94%94%ED%85%8C%EC%9D%BC.png">
+게시글 세부 내용 표시 
+
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%B1%84%ED%8C%85%EB%B0%A9.png">
+참여 인원 간 채팅 기능을 통해 세부사항 조율 
+
+- 일반 게시판 (자유 및 익명) 
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%9E%90%EC%9C%A0%EA%B2%8C%EC%8B%9C%ED%8C%90.png">
+
+자유롭게 글 작성. 작성자의 지역구+닉네임이 표시됨 
+
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%9E%90%EC%9C%A0%20%EB%94%94%ED%85%8C%EC%9D%BC.png">
+
+댓글 작성 가능. 댓글 작성자의 지역구+닉네임이 표시됨 
+
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%9D%B5%EB%AA%85%EA%B2%8C%EC%8B%9C%ED%8C%90.png">
+
+익명으로 글 작성. 작성자의 지역, 닉네임 등 모두 비공개 
+
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EC%9D%B5%EB%AA%85%EA%B2%8C%EC%8B%9C%ED%8C%90.png">
+
+댓글 작성 가능. 댓글 작성자의 정보도 모두 비공개 
   
 
 ### 3. 프로젝트 추진 내용    
 
 #### 3.1 프로젝트 진행과정    
 
-* 기존 작품을 Upgrade한 경우, 기존 작품에 대한 소개와 차이점 기술한다.   
+* 기존 작품을 Upgrade한 경우, 기존 작품에 대한 소개와 차이점 기술한다.
+ <img width="300" alt="image" src="https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/Images/%EB%B9%84%EA%B5%90%20%ED%91%9C.png">
+
+  - 일반 커뮤니티 (자유 및 익명게시판)을 구현해 단순 공동구매 플랫폼에서 벗어나 자취와 관련된 자유로운 소통이 가능하게 개선
+  - 지도 위의 게시물을 눌렀을 때, 세부 내용이 표시되도록 하여 사용에 직관성 부여
+  - 채팅 기능을 통해 쉐어의 세부 조건들을 쉽게 조율 가능
+  - 생필품, 식품에 대한 공동구매 뿐만 아니라 배달쉐어, 취미생활 공유 등 영역 다양화
+
 * 해당항목은 분석, 개념설계 및 상세설계 단계의 주요 산출물을 상세하고 쉽게 작성한다.    
 * 예) 유스케이스, 시스템 블록, 시퀀스 다이어그램과 설명, 그외 설계 산출물 등
 * ![Use case diagram-2 (1)](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144210233/68f2cd4e-e18f-4ea8-8313-715d18efe822)
