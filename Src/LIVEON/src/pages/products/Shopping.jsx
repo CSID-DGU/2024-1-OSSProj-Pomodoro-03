@@ -84,7 +84,7 @@ function Shopping() {
           content="LIVE:ON 공동구매 상품 페이지"
         />
         <meta property="og:type" content="web application" />
-        <meta property="og:url" content="https://r09m.vercel.app/shopping" />
+        <meta property="og:url" content="https://liveon.vercel.app/shopping" />
         <meta
           property="og:description"
           content="공동구매 상품을 확인할 수 있는 페이지입니다. 상품명, 상세내용, 진행상태, 참여자 현황을 확인할 수 있습니다."
