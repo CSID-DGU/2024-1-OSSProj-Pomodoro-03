@@ -3,7 +3,6 @@ import { getAuth, onAuthStateChanged } from 'firebase/auth';
 import { collection, query, where, getDocs, doc, getDoc } from 'firebase/firestore';
 import Spinner from '@/components/Spinner';
 import Header from '@/layout/Header';
-import { numberWithComma } from '@/utils/numberWithComma';
 import navStyles from '@/styles/Nav.module.css';
 import Button from '@/components/Button';
 import { Helmet } from 'react-helmet-async';
