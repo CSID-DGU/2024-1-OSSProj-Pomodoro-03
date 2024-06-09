@@ -1,6 +1,6 @@
 # A4.3 OSS 프로젝트 제품 구성, 배포 및 운영 자료  
 
-| 번호 | 내용 | 패키지명 | 소스코드 링크 | 구현 정도 |
+| 번호 | 내용 | 패키지명 | 소스코드 링크 | 구현 정도 | |
 | :---: | :-----: | :---: | :---: | :---: | :---: |
 | 1    | 로그인 및 회원가입 | auth       | [/Src/LIVEON/src/pages/auth](/Src/LIVEON/src/pages/auth)                          | 100%    |
 | 2    | 메인 화면 | Home       | [/Src/LIVEON/src/pages/](/Src/LIVEON/src/pages/Home.jsx)                          | 100%    |
