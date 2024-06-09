@@ -16,7 +16,8 @@
 | 8    | 채팅 | chat       | [/Src/LIVEON/src/pages/chat](/Src/LIVEON/src/pages/chat)                          | 100%    |
 | 9    | 자유게시판 & 익명게시판 | posts       | [/Src/LIVEON/src/pages/posts](/Src/LIVEON/src/pages/posts)                          | 80%    |
 
-- *프로젝트 구현 범위
+  
+- 프로젝트 구현 범위
   ![image](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144122630/0c4df1ed-d5cf-4bea-b16f-133d47f30a6e)
 
   
