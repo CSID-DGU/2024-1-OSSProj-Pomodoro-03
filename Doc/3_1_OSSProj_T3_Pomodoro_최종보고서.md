@@ -101,7 +101,7 @@ firebase를 활용하여 사용자 인증과 회원정보 저장 및 관리
 * 예) 유스케이스, 시스템 블록, 시퀀스 다이어그램과 설명, 그외 설계 산출물 등
 
   - 사용자 요구사항 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/93c8db60-ee54-461b-902e-702aff59eef9/8c3ba6dd-842d-43d0-b900-594ce6a5b574/Untitled.png)
+![image](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/assets/144210233/5656288e-c83b-4682-a5f8-393c8399ea0e)
 
   - API 명세서
     
