@@ -80,16 +80,11 @@ function Profile() {
           <h2 className="pageTitle">프로필</h2>
 
           <div className="flex gap-5 border-b border-b-line-400 pb-4 pt-4">
-            {/* <img
-              src={userData.photoURL} // Assuming photoURL is stored in user data
-              alt={`${name}의 프로필`}
-              className="w-[100px] h-[100px] rounded-full p-2 bg-slate-200/80"
-            /> */}
             <div className="flex flex-col">
               <span className="font-semibold text-lg text-primary-600">{nickname}</span>
               <span className="text-greenishgray-600 text-xs my-1">{email}</span>
               <span className="text-greenishgray-600 text-xs my-1">{region}</span>
-              {/* <span className="text-greenishgray-500 text-xs">{`${created.slice(0, 11)} 가입`}</span> */}
+            
               <div className="flex gap-2">
                 <Button
                   type="button"
@@ -120,12 +115,6 @@ function Profile() {
                 <li>
                   <div className="bg-primary-200 p-4 rounded-2xl mb-4 relative">
                     <figure className="flex gap-4 h-[100px]">
-                      {/* 이미지 URL을 가져오는 함수가 필요합니다 */}
-                      {/* <img
-                        src={getPbImageURL(share, 'uploadImage')}
-                        alt={share.title}
-                        className="w-[100px] h-full rounded-2xl"
-                      /> */}
                       <figcaption>
                         <h4 className="text-sm text-greenishgray-700 font-semibold ">
                           {share.title}
