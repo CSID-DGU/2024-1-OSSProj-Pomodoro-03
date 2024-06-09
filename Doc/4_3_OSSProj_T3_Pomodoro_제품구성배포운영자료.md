@@ -1,6 +1,13 @@
 # A4.3 OSS 프로젝트 제품 구성, 배포 및 운영 자료  
 
-- *자료 내용이 길어지는 경우 별도 문서로 작성하고 링크로 연결*
+| 번호 | 내용 | 패키지명 | 소스코드 링크 | 참고 | 구현 정도 |
+| :---: | :-----: | :---: | :---: | :---: | :---: |
+
+
+| 1    | 로그인 및 회원가입 | auth       | [/Src/LIVEON/src/pages/auth](/Src/LIVEON/src/pages/auth)                          | 100%    |
+| 88    | 채팅 | chat       | [/Src/LIVEON/src/pages/chat](/Src/LIVEON/src/pages/chat)                          | 100%    |
+
+
 
 ## 1. 프로젝트 제품 구성
 
