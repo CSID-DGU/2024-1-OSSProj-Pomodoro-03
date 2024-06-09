@@ -37,10 +37,11 @@
 
 ### 프로젝트 배포 링크
 [LIVE:ON](https://ossproj-liveon.web.app/)  
-
+  
+  
 ### 프로젝트 시연 영상 
 [![LIVE:ON](http://img.youtube.com/vi/LVFyc-urblA/0.jpg)](https://youtu.be/LVFyc-urblA)  
-
+  
   
 ### 프로젝트 자료  
 1. [OSSProj 수행계획서](https://github.com/CSID-DGU/2024-1-OSSProj-Pomodoro-03/blob/main/Doc/1_1_OSSProj_03_Pomodoro_%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D%EC%84%9C.md)  
