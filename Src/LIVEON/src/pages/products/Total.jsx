@@ -14,7 +14,7 @@ const getProducts = async () => {
   // 'share' 컬렉션의 전체 데이터를 가져오는 쿼리
   const shareQuery = query(
     collection(db, 'share'),
-    limit(50)  // 필요한 경우 제한 설정
+    limit(50)
   );
   const shareSnapshot = await getDocs(shareQuery);
 
@@ -30,7 +30,7 @@ const getProducts = async () => {
 
   shareSnapshot.forEach(doc => {
     const productData = doc.data();
-    const userData = userMap[productData.user_id] || {}; // user_id에 해당하는 사용자 데이터 가져오기
+    const userData = userMap[productData.user_id] || {};
     products.push({
       id: doc.id,
       ...productData,
@@ -68,14 +68,14 @@ function Total() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           property="og:title"
-          content="자취생을 위한 커뮤니티 LIVE:ON 전체 쉐어글 페이지"
+          content="자취생을 위한 위치기반 커뮤니티 LIVE:ON 전체 쉐어글 페이지"
         />
         <meta
           property="twitter:title"
-          content="자취생을 위한 커뮤니티 LIVE:ON 전체 쉐어글 페이지"
+          content="자취생을 위한 위치기반 커뮤니티 LIVE:ON 전체 쉐어글 페이지"
         />
         <meta property="og:type" content="web application" />
-        <meta property="og:url" content="https://r09m.vercel.app/products" />
+        <meta property="og:url" content="https://liveon.vercel.app/products" />
         <meta
           property="og:description"
           content="전체 쉐어글을 확인할 수 있는 페이지입니다. 카테고리, 상품명, 상세내용, 진행상태, 참여자 현황을 확인할 수 있습니다."
@@ -87,7 +87,7 @@ function Total() {
         <meta property="og:image" content="favicon.png" />
         <meta property="og:article:author" content="Ready! Act" />
       </Helmet>
-      <h1 className="sr-only">R09M</h1>
+      <h1 className="sr-only">LIVE:ON</h1>
 
       <div className="bg-line-200 py-2">
         <div className="px-4">
