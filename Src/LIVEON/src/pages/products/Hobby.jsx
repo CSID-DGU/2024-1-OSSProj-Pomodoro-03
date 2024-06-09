@@ -84,7 +84,7 @@ function Hobby() {
           content="LIVE:ON 취미 쉐어 페이지"
         />
         <meta property="og:type" content="web application" />
-        <meta property="og:url" content="https://r09m.vercel.app/hobby" />
+        <meta property="og:url" content="https://liveon.vercel.app/hobby" />
         <meta
           property="og:description"
           content="LIVE:ON 취미 쉐어 페이지. 상품명, 상세내용, 진행상태, 참여자 현황을 확인할 수 있습니다."
